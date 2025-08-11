@@ -71,11 +71,6 @@ Includes secure login, content upload, progress tracking, quizzes, and certifica
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdulqadir000&theme=tokyonight" />
 </p>
 
-
-🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/Abdulqadir000/Abdulqadir000/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p>
----
-
 ## 📫 Let's Connect!
 <p align="center">
   <a href="mailto:aabdulqadir300@gmail.com">
