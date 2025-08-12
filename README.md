@@ -1,87 +1,171 @@
-<h1 align="center">Hi 👋, I'm Abdul Qadir</h1>
-<h3 align="center">Full Stack Developer | AWS | MERN Expert</h3>
+# Hi there! 👋 I'm Abdul Qadir Khan
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AWS+Lambda+%7C+S3+%7C+Rekognition;Building+Face+Recognition+Apps;MongoDB+%7C+Express+%7C+React+%7C+Node" />
-</p>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;AWS+%E2%98%81%EF%B8%8F;MERN+Stack+Expert+%F0%9F%92%BB;Face+Recognition+Specialist+%F0%9F%A4%96;Building+Scalable+Solutions+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
----
-
-### 💻 About Me
-
-- 🔭 Currently building: **Event-based face tagging & recognition platform**
-- 🧠 Exploring: **AWS with real-world apps**
-- 💼 Full Stack Developer @ **Saylani Tech**
-- 📫 Reach me at: **aabdulqadir300@gmail.com**
-- 😎 Fun Fact: I'm that dev who merges frontend swag with backend fire 🔥
+</div>
 
 ---
 
-### 🚀 Tech Stack
+## 🚀 About Me
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
-![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazonaws)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
+- 🔭 **Currently working on:** Event-based Face Tagging & Recognition Platform
+- 🌱 **Learning:** Advanced AWS Cloud Architecture & Serverless Technologies
+- 💼 **Role:** Full Stack Developer at **Saylani Tech**
+- 🌍 **Location:** Pakistan 🇵🇰
+- 📫 **Contact:** aabdulqadir300@gmail.com
+- ⚡ **Fun fact:** I merge frontend creativity with backend power to build scalable solutions!
+- 🎯 **Focus:** Building AI-powered applications with modern tech stack
 
 ---
 
-## 🚀 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulqadir000&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com/?user=Abdulqadir000&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulqadir000&layout=compact&theme=tokyonight" />
-</p>
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdulqadir000&theme=tokyonight&row=1&column=6" />
-</p>
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdulqadir000&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulqadir000&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Abdulqadir000&theme=radical&hide_border=true" alt="Abdul Qadir's GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdulqadir000&theme=radical" alt="GitHub Profile Summary"/>
+</div>
 
 ---
 
-### 🔐 Featured Projects
+## 🏆 GitHub Achievements
 
-#### 🧠 Face-Tagging Gallery App  
-> An event-based facial recognition system using AWS Rekognition, Lambda, S3, and DynamoDB.  
-Includes selfie uploads, face matching, unique crop detection, and dynamic public URLs.  
-**Stack:** React, Node.js, MongoDB, AWS Rekognition, S3, Lambda  
-**Status:** Private Repo (ask for demo access)
-
-#### 📚 Learning Management System (LMS)  
-> A role-based LMS with admin, student, and instructor flows.  
-Includes secure login, content upload, progress tracking, quizzes, and certificate generation.  
-**Stack:** MERN Stack, JWT Auth, Cloudinary, Stripe (for paid courses)  
-**Status:** Private Repo (ask for demo access)
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdulqadir000&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
+</div>
 
 ---
 
-## 📊 GitHub Metrics
+## 🎯 Featured Projects
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdulqadir000&theme=tokyonight" />
-</p>
+### 🤖 Face-Tagging Gallery Platform
 
-## 📫 Let's Connect!
-<p align="center">
-  <a href="mailto:aabdulqadir300@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/abdul-qadir-khan-781266205?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&original_referer=https%3A%2F%2Flucent-cucurucho-e1aa1e.netlify.app%2F">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="https://github.com/Abdulqadir000">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />
-  </a>
-</p>
+**Advanced facial recognition system with AWS integration**
 
+**Key Features:**
+- 🎯 Real-time face detection & matching using AWS Rekognition
+- 📸 Automated photo tagging and categorization system
+- ⚡ Serverless architecture with Lambda functions
+- 🔒 Secure image processing pipeline with S3 storage
+- 📱 Responsive web interface with React
+- 💾 DynamoDB for efficient metadata management
 
+**Tech Stack:** React • Node.js • AWS Rekognition • Lambda • S3 • DynamoDB • MongoDB
+
+---
+
+### 📚 AI-Powered Learning Management System
+
+**Comprehensive role-based LMS with intelligent features**
+
+**Highlights:**
+- 🧠 AI-driven personalized learning experience
+- 👥 Multi-role system (Admin, Instructor, Student)
+- 📊 Advanced analytics and progress tracking dashboard
+- 📱 Mobile-responsive design with modern UI
+- 🎯 Interactive quiz system with real-time feedback
+
+**Tech Stack:** MERN Stack • JWT Auth • Cloudinary • AI Integration
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulqadir000&theme=react-dark&hide_border=true&area=true" />
+</div>
+
+---
+
+## 💼 Professional Experience
+
+**Full Stack Developer @ Saylani Tech** *(2023 - Present)*
+- 🚀 Leading development of scalable web applications
+- ☁️ AWS cloud architecture implementation and optimization
+- 📈 Built production-ready applications
+
+---
+
+## 💡 Fun Facts & Interests
+
+- ⚡ **Code Style:** Clean code enthusiast with a passion for performance optimization
+- 🐛 **Debugging:** I debug with console.log() and I'm proud of it! 😄
+- ☕ **Fuel:** Powered by coffee and Stack Overflow solutions
+- 🎯 **Motto:** "First make it work, then make it right, then make it fast!"
+- 🎮 **Hobbies:** Photography 📸, Gaming 🎮, Tech Podcasts 🎧
+- 🎵 **Coding Playlist:** Lofi Hip Hop, Synthwave, Epic Orchestral, or the silence of productive coding
+
+---
+
+## 📫 Let's Connect & Collaborate!
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aabdulqadir300@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-qadir-khan-781266205)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdulqadir000)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://abdulqadir-portfolio.netlify.app)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🎯 Visitor Count
+![](https://komarev.com/ghpvc/?username=Abdulqadir000&color=brightgreen&style=for-the-badge)
+
+---
+
+**⭐ From [Abdul Qadir](https://github.com/Abdulqadir000)**
+
+*"Building the future, one commit at a time! 🚀"*
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
