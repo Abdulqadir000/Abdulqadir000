@@ -5,26 +5,30 @@ on:
     - cron: "0 0 * * *" # runs every day at midnight
   workflow_dispatch:
 
-jobs:
+  jobs:
   update-readme:
     name: Update GitHub Readme Stats
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4 # Behtar hai ki isko bhi latest version (@v4) mein rakhein
+        uses: actions/checkout@v4 # Recommended latest version
+---
       - name: Generate GitHub Stats
         uses: anuraghazra/github-readme-stats@master # 'v3' ki jagah 'master' branch use karein
         with:
           USERNAME: Abdulqadir000
+---
       - name: Generate GitHub Streak
-        uses: DenverCoder1/github-readme-streak-stats@v3 # 'v2' ki jagah 'v3' ya 'master' use karein
+        uses: DenverCoder1/github-readme-streak-stats@master # 'v3' bhi fail ho gaya, ab 'master' branch use karein
         with:
           USERNAME: Abdulqadir000
+---
       - name: Generate Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: Abdulqadir000
           THEME: tokyonight
+---
       - name: Commit and Push
         run: |
           git config user.name "github-actions[bot]"
