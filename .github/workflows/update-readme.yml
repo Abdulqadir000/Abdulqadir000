@@ -11,17 +11,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3 # Isey bhi latest version mein update kiya jaa sakta hai, jaise ki @v4
+        uses: actions/checkout@v4 # Behtar hai ki isko bhi latest version (@v4) mein rakhein
       - name: Generate GitHub Stats
-        uses: anuraghazra/github-readme-stats@v3 # Yahan 'v3' ya latest version istemaal karein
+        uses: anuraghazra/github-readme-stats@master # 'v3' ki jagah 'master' branch use karein
         with:
           USERNAME: Abdulqadir000
       - name: Generate GitHub Streak
-        uses: DenverCoder1/github-readme-streak-stats@v2 # Yahan 'v2' ya latest version istemaal karein
+        uses: DenverCoder1/github-readme-streak-stats@v3 # 'v2' ki jagah 'v3' ya 'master' use karein
         with:
           USERNAME: Abdulqadir000
       - name: Generate Summary Cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release # Isme 'release' tag theek lag raha hai
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: Abdulqadir000
           THEME: tokyonight
