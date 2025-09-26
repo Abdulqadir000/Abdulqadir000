@@ -11,24 +11,20 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
-
+        uses: actions/checkout@v3 # Isey bhi latest version mein update kiya jaa sakta hai, jaise ki @v4
       - name: Generate GitHub Stats
-        uses: anuraghazra/github-readme-stats@v1
+        uses: anuraghazra/github-readme-stats@v3 # Yahan 'v3' ya latest version istemaal karein
         with:
           USERNAME: Abdulqadir000
-
       - name: Generate GitHub Streak
-        uses: DenverCoder1/github-readme-streak-stats@v1
+        uses: DenverCoder1/github-readme-streak-stats@v2 # Yahan 'v2' ya latest version istemaal karein
         with:
           USERNAME: Abdulqadir000
-
       - name: Generate Summary Cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release
+        uses: vn7n24fzkq/github-profile-summary-cards@release # Isme 'release' tag theek lag raha hai
         with:
           USERNAME: Abdulqadir000
           THEME: tokyonight
-
       - name: Commit and Push
         run: |
           git config user.name "github-actions[bot]"
