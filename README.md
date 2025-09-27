@@ -60,8 +60,16 @@
   <img src="https://streak-stats.demolab.com/?user=Abdulqadir000&theme=radical&hide_border=true" alt="Abdul Qadir's GitHub Streak"/>
 </div>
 
+## 📊 GitHub Summary Cards (Auto-updated via CI/CD)
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdulqadir000&theme=radical" alt="GitHub Profile Summary"/>
+
+![](./profile-summary-card-output/radical/0-profile-details.svg)
+![](./profile-summary-card-output/radical/1-repos-per-language.svg)
+![](./profile-summary-card-output/radical/2-most-commit-language.svg)
+![](./profile-summary-card-output/radical/3-stats.svg)
+![](./profile-summary-card-output/radical/4-productive-time.svg)
+
 </div>
 
 ---
