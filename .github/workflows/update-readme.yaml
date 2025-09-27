@@ -16,9 +16,11 @@ jobs:
 
       - name: Generate GitHub Profile Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: Abdulqadir000
-          THEME: radical
+          AUTO_PUSH: false
 
       - name: Commit and Push changes
         run: |
