@@ -1,23 +1,27 @@
-name: ♻️ Update GitHub Stats
+name: GitHub-Profile-Summary-Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *" # runs every day at midnight UTC
+    - cron: "0 0 * * *" # roz raat 12 baje (UTC) chalega
   workflow_dispatch:
 
+permissions:
+  contents: write   # 👈 push karne ke liye zaroori
+
 jobs:
-  update-readme:
-    name: Auto Update README Stats
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v3
 
-      - name: Generate GitHub Profile Summary Cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Setup Git
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
         with:
           USERNAME: Abdulqadir000
           AUTO_PUSH: false
