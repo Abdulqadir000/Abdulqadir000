@@ -60,7 +60,7 @@
   <img src="https://streak-stats.demolab.com/?user=Abdulqadir000&theme=radical&hide_border=true" alt="Abdul Qadir's GitHub Streak"/>
 </div>
 
-## 📊 GitHub Summary Cards (Auto-updated via CI/CD)
+## 📊 GitHub Summary Cards
 
 <div align="center">
 
