@@ -2,7 +2,7 @@ name: GitHub-Profile-Summary-Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *" # roz raat 12 baje (UTC) chalega
+    - cron: "0 0 * * *" # Roz raat 12 baje (UTC) chalega
   workflow_dispatch:
 
 permissions:
@@ -21,7 +21,7 @@ jobs:
 
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}   # 👈 apna PAT use karo
         with:
           USERNAME: Abdulqadir000
           AUTO_PUSH: false
