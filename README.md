@@ -103,7 +103,7 @@
 - 📱 Mobile-responsive design with modern UI
 - 🎯 Interactive quiz system with real-time feedback
 
-**Tech Stack:** MERN Stack • JWT Auth • Cloudinary • AI Integration
+**Tech Stack:** MERN Stack • JWT Auth • Cloudinary
 
 ---
 
