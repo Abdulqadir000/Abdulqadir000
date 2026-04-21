@@ -104,14 +104,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulqadir000&theme=react-dark&hide_border=true&area=true" />
-</div>
-
----
-
 ## 💼 Professional Experience
 
 **Full Stack Developer @ Saylani Tech** *(2023 - Present)*
